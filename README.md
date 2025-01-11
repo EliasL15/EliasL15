@@ -22,9 +22,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a diverse skill se
 Here are some of the projects I've been working on:
 
 - **Employee Management System**: A comprehensive system built with PHP to manage employee records and operations.
-- **Appointment System**: A C# application designed to schedule and manage appointments efficiently.
-- **Out-of-Space Multiplayer Game**: An engaging multiplayer game developed in Go, offering an immersive space adventure.
-- **Cyprus Basketball Live Scores**: A web application providing live scores and updates for basketball games in Cyprus.
+- **Appointment System**: A .NET application designed to schedule and manage appointments efficiently.
+- **Out-of-Space Multiplayer Game**: An engaging multiplayer game developed in Godot Engine for the Frontend and Go for the Backend, offering an immersive space adventure.
+- **Cyprus Basketball Live Scores**: A flask web application providing live scores and updates for basketball games in Cyprus.
 - **Brick Breaker Game**: A classic game implemented in Python, featuring multiple levels and challenges.
 - **Ultra Marathon**: A CSS-based project showcasing information and statistics about ultra marathon events.
 
