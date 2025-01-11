@@ -16,9 +16,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a diverse skill se
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-## 📈 GitHub Stats
-
-![Elias's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eliasl15&show_icons=true&theme=radical)
 
 ## 🚀 Projects
 
