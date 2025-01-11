@@ -32,6 +32,6 @@ Feel free to explore these repositories to get a better understanding of my work
 
 ## 📫 Get in Touch
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Connect with me through the links above or drop me an email at [your-email@example.com](mailto:your-email@example.com).
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Connect with me through the links above or drop me an email at [elias2.liassides@gmail.com](mailto:elias2.liassides@gmail.com).
 
 Thanks for visiting my profile! 😊
