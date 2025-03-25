@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a Computer Science student at the University of Manchester and a passionate developer with a diverse skill set and a keen interest in creating innovative solutions. Here's a bit about me:
 
-- 🌐 **Portfolio**: [liassides.me](liassidse.me)
+- 🌐 **Portfolio**: [liassides.me](lhttps://liassides.me/)
 - 💼 **LinkedIn**: [linkedin.com/in/elias-liassides](https://www.linkedin.com/in/elias-liassides)
 - 📸 **Instagram**: [@elias_liassides](https://www.instagram.com/elias_liassides)
 
